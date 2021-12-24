@@ -1,0 +1,17 @@
+sets.exported={
+    main="Qutrub Knife",
+    sub="Ceremonial Dagger",
+    ammo="Focal Orb",
+    head="Malignance Chapeau",
+    body="Ayanmo Corazza +2",
+    hands="Aya. Manopolas +2",
+    legs={ name="Carmine Cuisses +1", augments={'Accuracy+20','Attack+12','"Dual Wield"+6',}},
+    feet="Malignance Boots",
+    neck="Clotharius Torque",
+    waist="Windbuffet Belt +1",
+    left_ear="Suppanomimi",
+    right_ear="Sherida Earring",
+    left_ring="Chirich Ring",
+    right_ring="Rajas Ring",
+    back={ name="Sucellos's Cape", augments={'DEX+20','Accuracy+20 Attack+20','"Dual Wield"+10','Damage taken-5%',}},
+}

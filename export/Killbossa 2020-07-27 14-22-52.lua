@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Crocea Mors", augments={'Path: C',}},
+    sub="Tauret",
+    ammo="Pemphredo Tathlum",
+    head="Pixie Hairpin +1",
+    body="Jhakri Robe +2",
+    hands="Jhakri Cuffs +2",
+    legs="Jhakri Slops +1",
+    feet={ name="Vitiation Boots +2", augments={'Immunobreak Chance',}},
+    neck="Sanctity Necklace",
+    waist="Eschan Stone",
+    left_ear="Friomisi Earring",
+    right_ear="Malignance Earring",
+    left_ring="Archon Ring",
+    right_ring="Karieyh Ring",
+    back={ name="Sucellos's Cape", augments={'STR+20','Accuracy+20 Attack+20','Weapon skill damage +10%',}},
+}

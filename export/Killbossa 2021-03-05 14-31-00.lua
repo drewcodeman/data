@@ -1,0 +1,17 @@
+sets.exported={
+    main="Qutrub Knife",
+    sub="Ceremonial Dagger",
+    ammo="Staunch Tathlum",
+    head="Malignance Chapeau",
+    body="Malignance Tabard",
+    hands="Malignance Gloves",
+    legs={ name="Carmine Cuisses +1", augments={'Accuracy+20','Attack+12','"Dual Wield"+6',}},
+    feet="Malignance Boots",
+    neck="Loricate Torque +1",
+    waist="Gishdubar Sash",
+    left_ear="Odnowa Earring +1",
+    right_ear="Infused Earring",
+    left_ring="Warden's Ring",
+    right_ring="Griffon Ring",
+    back={ name="Sucellos's Cape", augments={'DEX+20','Accuracy+20 Attack+20','"Dual Wield"+10','Damage taken-5%',}},
+}

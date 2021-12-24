@@ -1,0 +1,18 @@
+sets.exported={
+    main={ name="Rostam", augments={'Path: C',}},
+    sub="Nusku Shield",
+    range="Fomalhaut",
+    ammo="Chrono Bullet",
+    head="Ikenga's Hat",
+    body="Laksa. Frac +3",
+    hands="Meg. Gloves +2",
+    legs="Ikenga's Trousers",
+    feet={ name="Lanun Bottes +3", augments={'Enhances "Wild Card" effect',}},
+    neck="Light Gorget",
+    waist="Light Belt",
+    left_ear="Ishvara Earring",
+    right_ear={ name="Moonshade Earring", augments={'Attack+4','TP Bonus +250',}},
+    left_ring="Apate Ring",
+    right_ring="Karieyh Ring",
+    back={ name="Camulus's Mantle", augments={'AGI+20','Rng.Acc.+20 Rng.Atk.+20','AGI+2','Weapon skill damage +10%',}},
+}

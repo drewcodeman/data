@@ -1,0 +1,17 @@
+sets.exported={
+    main="Malignance Sword",
+    sub="Ochain",
+    ammo="Incantor Stone",
+    head={ name="Souv. Schaller +1", augments={'HP+105','Enmity+9','Potency of "Cure" effect received +15%',}},
+    body="Rev. Surcoat +2",
+    hands="Macabre Gaunt. +1",
+    legs={ name="Souv. Diechlings +1", augments={'HP+105','Enmity+9','Potency of "Cure" effect received +15%',}},
+    feet={ name="Odyssean Greaves", augments={'"Mag.Atk.Bns."+11','Enmity+6','AGI+9','Mag. Acc.+12',}},
+    neck="Unmoving Collar",
+    waist="Creed Baudrier",
+    left_ear="Friomisi Earring",
+    right_ear="Odnowa Earring +1",
+    left_ring="Supershear Ring",
+    right_ring="Moonbeam Ring",
+    back={ name="Rudianos's Mantle", augments={'DEX+2','Accuracy+20 Attack+20','"Fast Cast"+10',}},
+}

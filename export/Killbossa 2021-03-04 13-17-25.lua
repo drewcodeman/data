@@ -1,0 +1,17 @@
+sets.exported={
+    main="Excalibur",
+    sub="Ochain",
+    ammo="Staunch Tathlum",
+    head={ name="Souv. Schaller +1", augments={'HP+105','Enmity+9','Potency of "Cure" effect received +15%',}},
+    body={ name="Jumalik Mail", augments={'HP+50','Attack+15','Enmity+9','"Refresh"+2',}},
+    hands="Macabre Gaunt. +1",
+    legs={ name="Founder's Hose", augments={'MND+5','Mag. Acc.+13',}},
+    feet={ name="Odyssean Greaves", augments={'"Mag.Atk.Bns."+11','Enmity+6','AGI+9','Mag. Acc.+12',}},
+    neck="Unmoving Collar",
+    waist="Creed Baudrier",
+    left_ear="Nourish. Earring +1",
+    right_ear="Odnowa Earring +1",
+    left_ring="Moonbeam Ring",
+    right_ring="Moonbeam Ring",
+    back="Solemnity Cape",
+}

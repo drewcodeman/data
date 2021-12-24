@@ -1,0 +1,18 @@
+sets.exported={
+    main="Tauret",
+    sub="Gleti's Knife",
+    range="Fomalhaut",
+    ammo="Chrono Bullet",
+    head="Ikenga's Hat",
+    body={ name="Ikenga's Vest", augments={'Path: A',}},
+    hands="Ikenga's Gloves",
+    legs="Ikenga's Trousers",
+    feet="Ikenga's Clogs",
+    neck="Marked Gorget",
+    waist="Yemaya Belt",
+    left_ear="Clearview Earring",
+    right_ear="Volley Earring",
+    left_ring="Longshot Ring",
+    right_ring="Arewe Ring",
+    back={ name="Belenus's Cape", augments={'AGI+20','Rng.Acc.+20 Rng.Atk.+20','"Store TP"+10',}},
+}

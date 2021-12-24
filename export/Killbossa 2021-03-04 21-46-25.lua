@@ -1,0 +1,17 @@
+sets.exported={
+    main="Malignance Sword",
+    sub="Ochain",
+    ammo="Staunch Tathlum",
+    head="Flam. Zucchetto +2",
+    body="Flamma Korazin +2",
+    hands="Sulev. Gauntlets +2",
+    legs="Sulev. Cuisses +2",
+    feet="Flam. Gambieras +2",
+    neck="Clotharius Torque",
+    waist="Sailfi Belt +1",
+    left_ear="Dedition Earring",
+    right_ear="Brutal Earring",
+    left_ring="Moonbeam Ring",
+    right_ring="Moonbeam Ring",
+    back={ name="Rudianos's Mantle", augments={'DEX+20','Accuracy+20 Attack+20','"Dbl.Atk."+10','Chance of successful block +5',}},
+}

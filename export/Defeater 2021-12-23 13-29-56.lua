@@ -1,0 +1,17 @@
+sets.exported={
+    main="Kaja Sword",
+    sub={ name="Nibiru Cudgel", augments={'MP+46','INT+9','"Mag.Atk.Bns."+13',}},
+    ammo="Hydrocera",
+    head="Jhakri Coronal +2",
+    body="Jhakri Robe +2",
+    hands={ name="Adhemar Wrist. +1", augments={'STR+12','DEX+12','Attack+20',}},
+    legs="Jhakri Slops +2",
+    feet="Jhakri Pigaches +2",
+    neck="Stoicheion Medal",
+    waist="Eschan Stone",
+    left_ear="Friomisi Earring",
+    right_ear="Hecate's Earring",
+    left_ring="Fenrir Ring",
+    right_ring="Fenrir Ring",
+    back={ name="Rosmerta's Cape", augments={'DEX+20','Accuracy+20 Attack+20','"Dbl.Atk."+10',}},
+}

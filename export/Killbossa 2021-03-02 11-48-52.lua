@@ -1,0 +1,17 @@
+sets.exported={
+    main="Tauret",
+    sub={ name="Taming Sari", augments={'STR+10','DEX+10','DMG:+15','"Treasure Hunter"+1',}},
+    ammo="Pemphredo Tathlum",
+    head={ name="Herculean Helm", augments={'Mag. Acc.+16 "Mag.Atk.Bns."+16','Crit. hit damage +2%','"Mag.Atk.Bns."+14',}},
+    body={ name="Herculean Vest", augments={'Accuracy+27','Pet: Accuracy+10 Pet: Rng. Acc.+10','Quadruple Attack +2','Mag. Acc.+15 "Mag.Atk.Bns."+15',}},
+    hands={ name="Plun. Armlets +1", augments={'Enhances "Perfect Dodge" effect',}},
+    legs={ name="Herculean Trousers", augments={'Weapon skill damage +3%','Accuracy+15','Magic Damage +17','Accuracy+8 Attack+8','Mag. Acc.+20 "Mag.Atk.Bns."+20',}},
+    feet={ name="Herculean Boots", augments={'Accuracy+21','"Triple Atk."+3','AGI+6',}},
+    neck="Light Gorget",
+    waist="Light Belt",
+    left_ear={ name="Moonshade Earring", augments={'Attack+4','TP Bonus +250',}},
+    right_ear="Friomisi Earring",
+    left_ring="Acumen Ring",
+    right_ring="Karieyh Ring",
+    back={ name="Toutatis's Cape", augments={'DEX+20','Accuracy+20 Attack+20','Weapon skill damage +10%',}},
+}

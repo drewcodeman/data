@@ -1,0 +1,17 @@
+sets.exported={
+    main="Oranyan",
+    sub="Clemency Grip",
+    ammo="Staunch Tathlum",
+    head="Malignance Chapeau",
+    body="Duelist's Tabard",
+    hands="Aya. Manopolas +2",
+    legs="Ea Slops",
+    feet={ name="Vitiation Boots +2", augments={'Immunobreak Chance',}},
+    neck="Loricate Torque +1",
+    waist="Gishdubar Sash",
+    left_ear="Merman's Earring",
+    right_ear="Loquac. Earring",
+    left_ring="Aquasoul Ring",
+    right_ring="Griffon Ring",
+    back="Moonbeam Cape",
+}

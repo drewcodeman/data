@@ -1,0 +1,17 @@
+sets.exported={
+    main="Tauret",
+    sub={ name="Taming Sari", augments={'STR+10','DEX+10','DMG:+15','"Treasure Hunter"+1',}},
+    ammo="Focal Orb",
+    head="Mummu Bonnet +2",
+    body="Mummu Jacket +2",
+    hands="Meg. Gloves +2",
+    legs="Mummu Kecks +2",
+    feet="Mummu Gamash. +2",
+    neck="Light Gorget",
+    waist="Light Belt",
+    left_ear="Odr Earring",
+    right_ear={ name="Moonshade Earring", augments={'Attack+4','TP Bonus +250',}},
+    left_ring="Karieyh Ring",
+    right_ring="Begrudging Ring",
+    back={ name="Toutatis's Cape", augments={'DEX+20','Accuracy+20 Attack+20','Weapon skill damage +10%',}},
+}

@@ -1,0 +1,18 @@
+sets.exported={
+    main={ name="Rostam", augments={'Path: C',}},
+    sub="Tauret",
+    range="Fomalhaut",
+    ammo="Chrono Bullet",
+    head="Nyame Helm",
+    body="Nyame Mail",
+    hands="Nyame Gauntlets",
+    legs={ name="Carmine Cuisses +1", augments={'Accuracy+20','Attack+12','"Dual Wield"+6',}},
+    feet="Nyame Sollerets",
+    neck="Loricate Torque +1",
+    waist="Gishdubar Sash",
+    left_ear="Merman's Earring",
+    right_ear="Thureous Earring",
+    left_ring="Karieyh Ring",
+    right_ring="Chirich Ring",
+    back="Moonbeam Cape",
+}

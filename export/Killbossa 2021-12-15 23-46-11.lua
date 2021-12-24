@@ -1,0 +1,17 @@
+sets.exported={
+    main="Naegling",
+    range={ name="Anarchy +2", augments={'Delay:+60','TP Bonus +1000',}},
+    ammo="Chrono Bullet",
+    head="Malignance Chapeau",
+    body="Laksa. Frac +3",
+    hands="Meg. Gloves +2",
+    legs="Malignance Tights",
+    feet={ name="Lanun Bottes +3", augments={'Enhances "Wild Card" effect',}},
+    neck="Light Gorget",
+    waist="Prosilio Belt",
+    left_ear="Ishvara Earring",
+    right_ear={ name="Moonshade Earring", augments={'Attack+4','TP Bonus +250',}},
+    left_ring="Karieyh Ring",
+    right_ring="Apate Ring",
+    back={ name="Camulus's Mantle", augments={'STR+20','Accuracy+20 Attack+20','STR+9','Weapon skill damage +10%',}},
+}

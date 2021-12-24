@@ -1,0 +1,18 @@
+sets.exported={
+    main="Dolichenus",
+    sub="Gleti's Knife",
+    range="Fomalhaut",
+    ammo="Chrono Bullet",
+    head={ name="Herculean Helm", augments={'Attack+22','Weapon skill damage +3%','Accuracy+5',}},
+    body={ name="Herculean Vest", augments={'Accuracy+27','Pet: Accuracy+10 Pet: Rng. Acc.+10','Quadruple Attack +2','Mag. Acc.+15 "Mag.Atk.Bns."+15',}},
+    hands={ name="Adhemar Wrist. +1", augments={'DEX+12','AGI+12','Accuracy+20',}},
+    legs={ name="Arc. Braccae +2", augments={'Enhances "Eagle Eye Shot" effect',}},
+    feet={ name="Herculean Boots", augments={'Accuracy+21','"Triple Atk."+3','AGI+6',}},
+    neck="Light Gorget",
+    waist="Light Belt",
+    left_ear="Sherida Earring",
+    right_ear="Brutal Earring",
+    left_ring="Karieyh Ring",
+    right_ring="Beithir Ring",
+    back={ name="Belenus's Cape", augments={'Accuracy+20 Attack+20','"Dbl.Atk."+10',}},
+}

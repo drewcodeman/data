@@ -1,0 +1,17 @@
+sets.exported={
+    main="Daybreak",
+    sub="Genmei Shield",
+    ammo="Sancus Sachet +1",
+    head={ name="Merlinic Hood", augments={'Mag. Acc.+17','Magic burst dmg.+5%','AGI+6','"Mag.Atk.Bns."+12',}},
+    body="Inyanga Jubbah +1",
+    hands={ name="Merlinic Dastanas", augments={'Pet: Accuracy+30 Pet: Rng. Acc.+30','Blood Pact Dmg.+4','Pet: Mag. Acc.+9',}},
+    legs="Assid. Pants +1",
+    feet="Navon Crackows",
+    neck="Loricate Torque +1",
+    waist="Embla Sash",
+    left_ear="Mendi. Earring",
+    right_ear="Beatific Earring",
+    left_ring="Stikini Ring",
+    right_ring="Stikini Ring",
+    back="Solemnity Cape",
+}

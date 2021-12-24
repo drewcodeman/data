@@ -1,0 +1,17 @@
+sets.exported={
+    main="Daybreak",
+    sub="Genmei Shield",
+    ammo="Staunch Tathlum",
+    head={ name="Viti. Chapeau +2", augments={'Enfeebling Magic duration','Magic Accuracy',}},
+    body="Jhakri Robe +2",
+    hands="Aya. Manopolas +2",
+    legs="Aya. Cosciales +1",
+    feet="Aya. Gambieras +2",
+    neck="Loricate Torque +1",
+    waist="Gishdubar Sash",
+    left_ear="Merman's Earring",
+    right_ear="Loquac. Earring",
+    left_ring="Warden's Ring",
+    right_ring="Griffon Ring",
+    back={ name="Sucellos's Cape", augments={'MND+20','Mag. Acc+20 /Mag. Dmg.+20','MND+10','Weapon skill damage +10%',}},
+}

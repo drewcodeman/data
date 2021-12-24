@@ -1,0 +1,17 @@
+sets.exported={
+    main="Nirvana",
+    sub="Elan Strap",
+    ammo="Sancus Sachet +1",
+    head="Beckoner's Horn +1",
+    body="Con. Doublet +3",
+    hands="Tali'ah Gages +2",
+    legs="Tali'ah Sera. +2",
+    feet="Tali'ah Crackows +1",
+    neck="Caller's Pendant",
+    waist="Klouskap Sash",
+    left_ear="Lodurr Earring",
+    right_ear="Evans Earring",
+    left_ring="Stikini Ring",
+    right_ring="Evoker's Ring",
+    back="Conveyance Cape",
+}

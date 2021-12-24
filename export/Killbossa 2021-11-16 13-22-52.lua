@@ -1,0 +1,17 @@
+sets.exported={
+    main="Shining One",
+    sub="Duplus Grip",
+    ammo="Focal Orb",
+    head="Gleti's Mask",
+    body="Gleti's Cuirass",
+    hands="Sulev. Gauntlets +2",
+    legs="Gleti's Breeches",
+    feet="Sulev. Leggings +2",
+    neck="Light Gorget",
+    waist="Light Belt",
+    left_ear="Thrud Earring",
+    right_ear={ name="Moonshade Earring", augments={'Attack+4','TP Bonus +250',}},
+    left_ring="Vulcan's Ring",
+    right_ring="Karieyh Ring",
+    back={ name="Brigantia's Mantle", augments={'DEX+20','Accuracy+20 Attack+20','"Dbl.Atk."+10',}},
+}

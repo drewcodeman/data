@@ -1,0 +1,17 @@
+sets.exported={
+    main="Qutrub Knife",
+    sub="Ceremonial Dagger",
+    ammo="Regal Gem",
+    head="Malignance Chapeau",
+    body="Malignance Tabard",
+    hands="Aya. Manopolas +2",
+    legs={ name="Viti. Tights +2", augments={'Enspell Damage','Accuracy',}},
+    feet="Malignance Boots",
+    neck={ name="Dls. Torque +2", augments={'Path: A',}},
+    waist="Windbuffet Belt +1",
+    left_ear="Snotra Earring",
+    right_ear="Digni. Earring",
+    left_ring="Kishar Ring",
+    right_ring="Chirich Ring",
+    back={ name="Sucellos's Cape", augments={'DEX+20','Accuracy+20 Attack+20','"Dual Wield"+10','Damage taken-5%',}},
+}

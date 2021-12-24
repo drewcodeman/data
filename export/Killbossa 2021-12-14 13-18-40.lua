@@ -1,0 +1,17 @@
+sets.exported={
+    main="Excalibur",
+    sub="Ochain",
+    ammo="Staunch Tathlum",
+    head={ name="Sakpata's Helm", augments={'Path: A',}},
+    body="Sakpata's Plate",
+    hands="Sakpata's Gauntlets",
+    legs={ name="Carmine Cuisses +1", augments={'Accuracy+20','Attack+12','"Dual Wield"+6',}},
+    feet="Sakpata's Leggings",
+    neck="Loricate Torque +1",
+    waist="Creed Baudrier",
+    left_ear="Thureous Earring",
+    right_ear="Odnowa Earring +1",
+    left_ring="Moonbeam Ring",
+    right_ring="Moonbeam Ring",
+    back="Moonbeam Cape",
+}

@@ -1,0 +1,17 @@
+sets.exported={
+    main="Tauret",
+    sub={ name="Taming Sari", augments={'STR+10','DEX+10','DMG:+15','"Treasure Hunter"+1',}},
+    ammo="Focal Orb",
+    head="Malignance Chapeau",
+    body="Malignance Tabard",
+    hands={ name="Adhemar Wrist. +1", augments={'DEX+12','AGI+12','Accuracy+20',}},
+    legs="Malignance Tights",
+    feet="Malignance Boots",
+    neck="Loricate Torque +1",
+    waist="Windbuffet Belt +1",
+    left_ear="Brutal Earring",
+    right_ear="Sherida Earring",
+    left_ring="Moonbeam Ring",
+    right_ring="Moonbeam Ring",
+    back={ name="Toutatis's Cape", augments={'DEX+20','Accuracy+20 Attack+20','Weapon skill damage +10%',}},
+}

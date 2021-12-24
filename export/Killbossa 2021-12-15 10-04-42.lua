@@ -1,0 +1,17 @@
+sets.exported={
+    main="Tauret",
+    sub="Gleti's Knife",
+    ammo="Staunch Tathlum",
+    head="Malignance Chapeau",
+    body="Malignance Tabard",
+    hands="Malignance Gloves",
+    legs="Malignance Tights",
+    feet="Malignance Boots",
+    neck="Loricate Torque +1",
+    waist="Carrier's Sash",
+    left_ear="Merman's Earring",
+    right_ear="Tuisto Earring",
+    left_ring="Warden's Ring",
+    right_ring="Chirich Ring",
+    back="Moonbeam Cape",
+}

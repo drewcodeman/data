@@ -1,0 +1,18 @@
+sets.exported={
+    main={ name="Rostam", augments={'Path: C',}},
+    sub="Nusku Shield",
+    range="Fomalhaut",
+    ammo="Chrono Bullet",
+    head="Ikenga's Hat",
+    body="Ikenga's Vest",
+    hands="Ikenga's Gloves",
+    legs="Ikenga's Trousers",
+    feet="Ikenga's Clogs",
+    neck="Marked Gorget",
+    waist="Yemaya Belt",
+    left_ear="Clearview Earring",
+    right_ear="Volley Earring",
+    left_ring="Longshot Ring",
+    right_ring="Arewe Ring",
+    back={ name="Camulus's Mantle", augments={'AGI+20','Rng.Acc.+20 Rng.Atk.+20','"Store TP"+10',}},
+}

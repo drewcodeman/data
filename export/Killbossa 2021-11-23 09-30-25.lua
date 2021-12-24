@@ -1,0 +1,18 @@
+sets.exported={
+    main="Tauret",
+    sub="Gleti's Knife",
+    range="Fomalhaut",
+    ammo="Chrono Bullet",
+    head="Malignance Chapeau",
+    body="Malignance Tabard",
+    hands="Malignance Gloves",
+    legs={ name="Carmine Cuisses +1", augments={'Accuracy+20','Attack+12','"Dual Wield"+6',}},
+    feet="Malignance Boots",
+    neck="Loricate Torque +1",
+    waist="Eschan Stone",
+    left_ear="Tuisto Earring",
+    right_ear="Odnowa Earring +1",
+    left_ring="Karieyh Ring",
+    right_ring="Chirich Ring",
+    back="Moonbeam Cape",
+}

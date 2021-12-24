@@ -1,0 +1,17 @@
+sets.exported={
+    main="Kaja Sword",
+    sub={ name="Colada", augments={'"Dbl.Atk."+2','Accuracy+13','Attack+17','DMG:+15',}},
+    ammo="Hydrocera",
+    head="Jhakri Coronal +2",
+    body="Assim. Jubbah +2",
+    hands="Jhakri Cuffs +2",
+    legs={ name="Luhlaza Shalwar +3", augments={'Enhances "Assimilation" effect',}},
+    feet="Jhakri Pigaches +2",
+    neck="Stoicheion Medal",
+    waist="Eschan Stone",
+    left_ear="Friomisi Earring",
+    right_ear="Hecate's Earring",
+    left_ring="Stikini Ring",
+    right_ring="Stikini Ring",
+    back={ name="Rosmerta's Cape", augments={'DEX+20','Accuracy+20 Attack+20','"Dbl.Atk."+10',}},
+}

@@ -1,0 +1,17 @@
+sets.exported={
+    main="Kaja Sword",
+    sub={ name="Colada", augments={'"Dbl.Atk."+2','Accuracy+13','Attack+17','DMG:+15',}},
+    ammo="Ginsen",
+    head={ name="Adhemar Bonnet +1", augments={'STR+8','DEX+8','Attack+12',}},
+    body={ name="Herculean Vest", augments={'"Triple Atk."+4','DEX+10','Accuracy+15','Attack+12',}},
+    hands={ name="Adhemar Wrist. +1", augments={'STR+12','DEX+12','Attack+20',}},
+    legs={ name="Herculean Trousers", augments={'"Dual Wield"+3','"Blood Boon"+6','Quadruple Attack +2','Accuracy+1 Attack+1','Mag. Acc.+20 "Mag.Atk.Bns."+20',}},
+    feet={ name="Herculean Boots", augments={'Attack+22','"Triple Atk."+3','STR+14','Accuracy+3',}},
+    neck="Asperity Necklace",
+    waist="Sailfi Belt +1",
+    left_ear="Suppanomimi",
+    right_ear="Brutal Earring",
+    left_ring="Epona's Ring",
+    right_ring="Rajas Ring",
+    back={ name="Rosmerta's Cape", augments={'DEX+20','Accuracy+20 Attack+20','"Dbl.Atk."+10',}},
+}

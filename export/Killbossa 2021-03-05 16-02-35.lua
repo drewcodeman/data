@@ -1,0 +1,17 @@
+sets.exported={
+    main="Pukulatmuj +1",
+    sub="Pukulatmuj",
+    ammo="Regal Gem",
+    head={ name="Viti. Chapeau +3", augments={'Enfeebling Magic duration','Magic Accuracy',}},
+    body="Atrophy Tabard +3",
+    hands="Malignance Gloves",
+    legs="Malignance Tights",
+    feet={ name="Vitiation Boots +2", augments={'Immunobreak Chance',}},
+    neck={ name="Dls. Torque +2", augments={'Path: A',}},
+    waist="Eschan Stone",
+    left_ear="Snotra Earring",
+    right_ear="Vor Earring",
+    left_ring="Stikini Ring",
+    right_ring="Stikini Ring",
+    back={ name="Sucellos's Cape", augments={'MND+20','Mag. Acc+20 /Mag. Dmg.+20','MND+10','Weapon skill damage +10%',}},
+}

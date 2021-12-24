@@ -1,0 +1,17 @@
+sets.exported={
+    main="Tauret",
+    sub={ name="Taming Sari", augments={'STR+10','DEX+10','DMG:+15','"Treasure Hunter"+1',}},
+    ammo="Yetshila",
+    head={ name="Herculean Helm", augments={'Attack+22','Weapon skill damage +3%','Accuracy+5',}},
+    body={ name="Taeon Tabard", augments={'Accuracy+19 Attack+19','Crit.hit rate+3','Crit. hit damage +2%',}},
+    hands="Meg. Gloves +2",
+    legs={ name="Herculean Trousers", augments={'Rng.Acc.+25 Rng.Atk.+25','Weapon skill damage +4%','STR+7','Rng.Acc.+6',}},
+    feet="Meg. Jam. +2",
+    neck="Snow Gorget",
+    waist="Snow Belt",
+    left_ear="Odr Earring",
+    right_ear={ name="Moonshade Earring", augments={'Attack+4','TP Bonus +250',}},
+    left_ring="Karieyh Ring",
+    right_ring="Apate Ring",
+    back={ name="Toutatis's Cape", augments={'DEX+20','Accuracy+20 Attack+20','Weapon skill damage +10%',}},
+}

@@ -1,0 +1,17 @@
+sets.exported={
+    main="Kaja Sword",
+    sub={ name="Nibiru Cudgel", augments={'MP+46','INT+9','"Mag.Atk.Bns."+13',}},
+    ammo="Ginsen",
+    head={ name="Adhemar Bonnet +1", augments={'STR+8','DEX+8','Attack+12',}},
+    body="Gleti's Cuirass",
+    hands={ name="Adhemar Wrist. +1", augments={'STR+12','DEX+12','Attack+20',}},
+    legs="Gleti's Breeches",
+    feet={ name="Herculean Boots", augments={'Attack+22','"Triple Atk."+3','STR+14','Accuracy+3',}},
+    neck="Asperity Necklace",
+    waist="Light Belt",
+    left_ear={ name="Moonshade Earring", augments={'"Mag.Atk.Bns."+4','TP Bonus +250',}},
+    right_ear="Odr Earring",
+    left_ring="Begrudging Ring",
+    right_ring="Epona's Ring",
+    back={ name="Rosmerta's Cape", augments={'DEX+20','Accuracy+20 Attack+20','"Dbl.Atk."+10',}},
+}

@@ -1,0 +1,18 @@
+sets.exported={
+    main="Naegling",
+    sub="Gleti's Knife",
+    range={ name="Anarchy +2", augments={'Delay:+60','TP Bonus +1000',}},
+    ammo="Chrono Bullet",
+    head={ name="Herculean Helm", augments={'Mag. Acc.+16 "Mag.Atk.Bns."+16','Crit. hit damage +2%','"Mag.Atk.Bns."+14',}},
+    body={ name="Ikenga's Vest", augments={'Path: A',}},
+    hands={ name="Carmine Fin. Ga. +1", augments={'Rng.Atk.+20','"Mag.Atk.Bns."+12','"Store TP"+6',}},
+    legs={ name="Herculean Trousers", augments={'STR+2','Weapon skill damage +2%','"Treasure Hunter"+2','Mag. Acc.+5 "Mag.Atk.Bns."+5',}},
+    feet="Ikenga's Clogs",
+    neck="Sanctity Necklace",
+    waist="Eschan Stone",
+    left_ear="Friomisi Earring",
+    right_ear={ name="Moonshade Earring", augments={'Attack+4','TP Bonus +250',}},
+    left_ring="Karieyh Ring",
+    right_ring="Apate Ring",
+    back={ name="Belenus's Cape", augments={'AGI+20','Rng.Acc.+20 Rng.Atk.+20','Weapon skill damage +10%',}},
+}

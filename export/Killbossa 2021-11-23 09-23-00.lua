@@ -1,0 +1,18 @@
+sets.exported={
+    main="Tauret",
+    sub="Gleti's Knife",
+    range="Fomalhaut",
+    ammo="Chrono Bullet",
+    head="Ikenga's Hat",
+    body={ name="Ikenga's Vest", augments={'Path: A',}},
+    hands="Malignance Gloves",
+    legs={ name="Carmine Cuisses +1", augments={'Accuracy+20','Attack+12','"Dual Wield"+6',}},
+    feet="Meg. Jam. +2",
+    neck="Light Gorget",
+    waist="Gishdubar Sash",
+    left_ear="Merman's Earring",
+    right_ear="Thureous Earring",
+    left_ring="Karieyh Ring",
+    right_ring="Apate Ring",
+    back={ name="Belenus's Cape", augments={'AGI+20','Rng.Acc.+20 Rng.Atk.+20','Weapon skill damage +10%',}},
+}

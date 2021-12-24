@@ -1,0 +1,17 @@
+sets.exported={
+    main="Naegling",
+    sub="Ochain",
+    ammo="Staunch Tathlum",
+    head="Sakpata's Helm",
+    body="Sakpata's Plate",
+    hands="Sakpata's Gauntlets",
+    legs="Sakpata's Cuisses",
+    feet="Sakpata's Leggings",
+    neck="Unmoving Collar",
+    waist="Sailfi Belt +1",
+    left_ear="Tuisto Earring",
+    right_ear="Odnowa Earring +1",
+    left_ring="Moonbeam Ring",
+    right_ring="Moonbeam Ring",
+    back={ name="Rudianos's Mantle", augments={'DEX+20','Accuracy+20 Attack+20','"Dbl.Atk."+10','Chance of successful block +5',}},
+}

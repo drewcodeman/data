@@ -1,0 +1,17 @@
+sets.exported={
+    main="Excalibur",
+    sub="Ochain",
+    ammo="Staunch Tathlum",
+    head={ name="Souv. Schaller +1", augments={'HP+105','Enmity+9','Potency of "Cure" effect received +15%',}},
+    body="Rev. Surcoat +2",
+    hands="Sulev. Gauntlets +2",
+    legs={ name="Souv. Diechlings +1", augments={'HP+105','Enmity+9','Potency of "Cure" effect received +15%',}},
+    feet={ name="Souveran Schuhs +1", augments={'HP+105','Enmity+9','Potency of "Cure" effect received +15%',}},
+    neck="Loricate Torque +1",
+    waist="Creed Baudrier",
+    left_ear="Creed Earring",
+    right_ear="Odnowa Earring +1",
+    left_ring="Moonbeam Ring",
+    right_ring="Moonbeam Ring",
+    back="Moonbeam Cape",
+}

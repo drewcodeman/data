@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Nibiru Cudgel", augments={'MP+49','INT+9','"Mag.Atk.Bns."+14',}},
+    sub={ name="Nibiru Cudgel", augments={'MP+46','INT+9','"Mag.Atk.Bns."+13',}},
+    ammo="Staunch Tathlum",
+    head="Gleti's Mask",
+    body="Assim. Jubbah +2",
+    hands="Jhakri Cuffs +2",
+    legs="Aya. Cosciales +2",
+    feet="Gleti's Boots",
+    neck="Mirage Stole +1",
+    waist="Light Belt",
+    left_ear={ name="Moonshade Earring", augments={'"Mag.Atk.Bns."+4','TP Bonus +250',}},
+    right_ear="Odr Earring",
+    left_ring="Apate Ring",
+    right_ring="Rajas Ring",
+    back={ name="Rosmerta's Cape", augments={'STR+20','Accuracy+20 Attack+20','Weapon skill damage +10%',}},
+}

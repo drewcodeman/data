@@ -1,0 +1,17 @@
+sets.exported={
+    main="Naegling",
+    sub="Ochain",
+    ammo="Focal Orb",
+    head="Flam. Zucchetto +2",
+    body="Sakpata's Plate",
+    hands="Sakpata's Gauntlets",
+    legs="Flamma Dirs +2",
+    feet="Flam. Gambieras +2",
+    neck="Ainia Collar",
+    waist="Sailfi Belt +1",
+    left_ear="Dedition Earring",
+    right_ear="Brutal Earring",
+    left_ring="Moonbeam Ring",
+    right_ring="Moonbeam Ring",
+    back={ name="Rudianos's Mantle", augments={'DEX+20','Accuracy+20 Attack+20','"Dbl.Atk."+10','Chance of successful block +5',}},
+}

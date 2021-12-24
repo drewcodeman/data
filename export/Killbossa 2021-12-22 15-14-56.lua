@@ -1,0 +1,17 @@
+sets.exported={
+    main="Tauret",
+    sub="Gleti's Knife",
+    range="Kaja Bow",
+    head="Nyame Helm",
+    body="Nyame Mail",
+    hands="Nyame Gauntlets",
+    legs="Nyame Flanchard",
+    feet="Nyame Sollerets",
+    neck="Marked Gorget",
+    waist="Light Belt",
+    left_ear={ name="Moonshade Earring", augments={'Attack+4','TP Bonus +250',}},
+    right_ear="Clearview Earring",
+    left_ring="Longshot Ring",
+    right_ring="Karieyh Ring",
+    back={ name="Sucellos's Cape", augments={'STR+20','Accuracy+20 Attack+20','Weapon skill damage +10%',}},
+}

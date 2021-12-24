@@ -1,0 +1,17 @@
+sets.exported={
+    main="Naegling",
+    sub={ name="Machaera +2", augments={'TP Bonus +1000',}},
+    ammo="Staunch Tathlum",
+    head="Malignance Chapeau",
+    body="Malignance Tabard",
+    hands="Malignance Gloves",
+    legs={ name="Carmine Cuisses +1", augments={'Accuracy+20','Attack+12','"Dual Wield"+6',}},
+    feet="Malignance Boots",
+    neck="Loricate Torque +1",
+    waist="Eschan Stone",
+    left_ear="Merman's Earring",
+    right_ear="Dominance Earring",
+    left_ring="Warden's Ring",
+    right_ring="Chirich Ring",
+    back="Moonbeam Cape",
+}

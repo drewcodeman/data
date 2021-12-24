@@ -1,0 +1,18 @@
+sets.exported={
+    main="Tauret",
+    sub="Gleti's Knife",
+    range="Fomalhaut",
+    ammo="Chrono Bullet",
+    head="Malignance Chapeau",
+    body={ name="Herculean Vest", augments={'Accuracy+27','Pet: Accuracy+10 Pet: Rng. Acc.+10','Quadruple Attack +2','Mag. Acc.+15 "Mag.Atk.Bns."+15',}},
+    hands={ name="Adhemar Wrist. +1", augments={'DEX+12','AGI+12','Accuracy+20',}},
+    legs="Malignance Tights",
+    feet={ name="Herculean Boots", augments={'Accuracy+21','"Triple Atk."+3','AGI+6',}},
+    neck="Ainia Collar",
+    waist="Windbuffet Belt +1",
+    left_ear="Sherida Earring",
+    right_ear="Suppanomimi",
+    left_ring="Archon Ring",
+    right_ring="Chirich Ring",
+    back={ name="Belenus's Cape", augments={'Accuracy+20 Attack+20','"Dbl.Atk."+10',}},
+}

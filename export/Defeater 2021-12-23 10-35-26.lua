@@ -1,0 +1,17 @@
+sets.exported={
+    main="Kaja Sword",
+    sub={ name="Colada", augments={'"Dbl.Atk."+2','Accuracy+13','Attack+17','DMG:+15',}},
+    ammo="Staunch Tathlum",
+    head={ name="Adhemar Bonnet +1", augments={'STR+8','DEX+8','Attack+12',}},
+    body="Nyame Mail",
+    hands={ name="Adhemar Wrist. +1", augments={'STR+12','DEX+12','Attack+20',}},
+    legs="Nyame Flanchard",
+    feet="Nyame Sollerets",
+    neck="Loricate Torque +1",
+    waist="Sailfi Belt +1",
+    left_ear="Suppanomimi",
+    right_ear="Brutal Earring",
+    left_ring="Epona's Ring",
+    right_ring="Rajas Ring",
+    back={ name="Rosmerta's Cape", augments={'DEX+20','Accuracy+20 Attack+20','"Dbl.Atk."+10',}},
+}

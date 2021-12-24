@@ -1,0 +1,17 @@
+sets.exported={
+    main="Excalibur",
+    sub="Ochain",
+    ammo="Staunch Tathlum",
+    head={ name="Jumalik Helm", augments={'MND+5','"Mag.Atk.Bns."+10','Magic burst dmg.+6%',}},
+    body="Rev. Surcoat +2",
+    hands="Eschite Gauntlets",
+    legs={ name="Souv. Diechlings +1", augments={'HP+105','Enmity+9','Potency of "Cure" effect received +15%',}},
+    feet={ name="Souveran Schuhs +1", augments={'HP+105','Enmity+9','Potency of "Cure" effect received +15%',}},
+    neck="Henic Torque",
+    waist="Asklepian Belt",
+    left_ear="Beatific Earring",
+    right_ear="Odnowa Earring +1",
+    left_ring="Stikini Ring",
+    right_ring="Stikini Ring",
+    back="Moonbeam Cape",
+}

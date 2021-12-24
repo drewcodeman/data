@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Crocea Mors", augments={'Path: C',}},
+    sub="Daybreak",
+    ammo="Focal Orb",
+    head={ name="Viti. Chapeau +2", augments={'Enfeebling Magic duration','Magic Accuracy',}},
+    body="Jhakri Robe +2",
+    hands="Aya. Manopolas +2",
+    legs={ name="Chironic Hose", augments={'Mag. Acc.+20 "Mag.Atk.Bns."+20','"Cure" potency +10%','AGI+10','Mag. Acc.+5',}},
+    feet="Aya. Gambieras +2",
+    neck="Loricate Torque +1",
+    waist="Gishdubar Sash",
+    left_ear="Merman's Earring",
+    right_ear="Loquac. Earring",
+    left_ring="Warden's Ring",
+    right_ring="Warp Ring",
+    back="Moonbeam Cape",
+}

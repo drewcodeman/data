@@ -1,0 +1,18 @@
+sets.exported={
+    main="Naegling",
+    sub={ name="Rostam", augments={'Path: C',}},
+    range={ name="Anarchy +2", augments={'Delay:+60','TP Bonus +1000',}},
+    ammo="Chrono Bullet",
+    head="Malignance Chapeau",
+    body="Malignance Tabard",
+    hands={ name="Adhemar Wrist. +1", augments={'DEX+12','AGI+12','Accuracy+20',}},
+    legs={ name="Carmine Cuisses +1", augments={'Accuracy+20','Attack+12','"Dual Wield"+6',}},
+    feet="Malignance Boots",
+    neck="Clotharius Torque",
+    waist="Gishdubar Sash",
+    left_ear="Merman's Earring",
+    right_ear="Thureous Earring",
+    left_ring="Karieyh Ring",
+    right_ring="Apate Ring",
+    back="Moonbeam Cape",
+}

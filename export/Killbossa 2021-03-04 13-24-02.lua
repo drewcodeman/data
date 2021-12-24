@@ -1,0 +1,17 @@
+sets.exported={
+    main="Excalibur",
+    sub="Ochain",
+    ammo="Staunch Tathlum",
+    head={ name="Carmine Mask +1", augments={'Accuracy+12','DEX+12','MND+20',}},
+    body={ name="Odyss. Chestplate", augments={'"Mag.Atk.Bns."+6','Enmity+3','INT+2','Mag. Acc.+14',}},
+    hands={ name="Leyline Gloves", augments={'Accuracy+7','"Mag.Atk.Bns."+10',}},
+    legs={ name="Carmine Cuisses +1", augments={'Accuracy+20','Attack+12','"Dual Wield"+6',}},
+    feet={ name="Odyssean Greaves", augments={'"Mag.Atk.Bns."+11','Enmity+6','AGI+9','Mag. Acc.+12',}},
+    neck="Enhancing Torque",
+    waist="Creed Baudrier",
+    left_ear="Mimir Earring",
+    right_ear="Odnowa Earring +1",
+    left_ring="Stikini Ring",
+    right_ring="Stikini Ring",
+    back={ name="Rudianos's Mantle", augments={'DEX+2','Accuracy+20 Attack+20','"Fast Cast"+10',}},
+}
